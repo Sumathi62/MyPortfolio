@@ -217,22 +217,22 @@ pipelines in real-world scenarios.
               <h3>Event Management</h3>
               <p><em>March 2025</em></p>
               <p>Built a full stack event management system supporting multiple companies, with complete integration to support seamless user and admin experiences. Managers from each company can create, edit, and delete their own events, and only their respective events are visible to users. Users can register for events, track attendance, and cancel participation if needed.</p>
-            </div>
+            </div><br/>
             <div className="project-item">
               <h3>Blogging Platform</h3>
               <p><em>November 2023</em></p>
               <p>Contributed as a frontend developer, designing and implementing user interface elements for a platform facilitating knowledge sharing and community building.</p>
-            </div>
+            </div><br/>
             <div className="project-item">
               <h3>Real-time Face Detection</h3>
               <p><em>June 2023</em></p>
               <p>Trained a model using the Viola-Jones algorithm with various face images to improve detection accuracy.</p>
-            </div>
+            </div><br/>
             <div className="project-item">
               <h3>Plant Disease Detection</h3>
               <p><em>December 2022</em></p>
               <p>Collected and preprocessed a dataset using machine learning techniques to train a model for accurate plant disease detection.</p>
-            </div>
+            </div><br/>
             <div className="project-item">
               <h3>Brain Tumor Detection</h3>
               <p><em>June 2022</em></p>
@@ -246,7 +246,7 @@ pipelines in real-world scenarios.
       <section id="skills" className="section">
         <div className="container">
           <h2 className="section-title">
-            <span className="gradient-text">Technical Skills</span>
+            <span className="gradient-text">Skills</span>
           </h2>
           <div className="skills-list">
             <div className="skill-category">
@@ -297,7 +297,7 @@ pipelines in real-world scenarios.
           </h2>
           <div className="contact-info">
             <p><Mail size={20} /> Email: <a href="mailto:dsumathi62@gmail.com">dsumathi62@gmail.com</a></p>
-            <p><Phone size={20} /> Phone: +91-XXXXXXXXXX</p>
+            <p><Phone size={20} /> Phone: +91-8328508822</p>
             <p><MapPin size={20} /> Location: Bhimavaram, Andhra Pradesh</p>
             <p>
               <Github size={20} /> GitHub: 
